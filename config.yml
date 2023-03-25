@@ -1,0 +1,7 @@
+limiters:
+  basic:
+    limit: 10
+    unit: MINUTES
+  test:
+    limit: 5
+    unit: SECONDS
